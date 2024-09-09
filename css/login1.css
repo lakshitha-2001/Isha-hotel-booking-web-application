@@ -1,0 +1,27 @@
+
+input[type=text],[type=password],select {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color:rgba(0,0,0,0.5);
+  box-shadow: inset -3px -3px rgba(0, 0, 0, 0.8);
+  color:white;
+  font-size: 1rem;
+}
+
+button{
+  width: 90%;
+  background-color: #4c7aaf;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  box-shadow:inset -3px -3px rgba(0, 0, 0, 0.8);
+  background-color:rgba(0,0,0,0.5);
+}
+
